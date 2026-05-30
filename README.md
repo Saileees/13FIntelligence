@@ -21,10 +21,9 @@ The deployed dashboard is a single self-contained `index.html` file. It does not
 After enabling GitHub Pages, the demo will be available at:
 
 ```text
-https://YOUR_USERNAME.github.io/13f-intelligence-platform-demo/
+https://saileees.github.io/13FIntelligence/
 ```
 
 ## Caveat
 
 13F filings are delayed public disclosures. They do not show short books, cost basis, intraperiod trades, or full derivative context. This project is intended as an exploratory intelligence dashboard, not a trading system.
-
