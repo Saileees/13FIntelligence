@@ -17,8 +17,7 @@ This demo turns public SEC 13F filing data into a local/static intelligence prod
 The deployed dashboard is a single self-contained `index.html` file. It does not require a backend, database, API key, external JavaScript, npm, or Python runtime to view.
 
 ## Live Dashboard
-
-After enabling GitHub Pages, the demo will be available at:
+The demo is available at:
 
 ```text
 https://saileees.github.io/13FIntelligence/
